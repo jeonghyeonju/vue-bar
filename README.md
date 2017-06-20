@@ -12,6 +12,8 @@
 
 ## Installation
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/DeviaVir/vue-bar.svg)](https://greenkeeper.io/)
+
 ```shell
 npm i vuebars -S
 ```
